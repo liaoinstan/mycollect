@@ -7,6 +7,7 @@ https://github.com/panwrona/DownloadProgressBar
 ![这里写图片描述](https://github.com/panwrona/DownloadProgressBar/raw/master/success.gif)  
 https://github.com/JorgeCastilloPrz/FABProgressCircle  
 ![这里写图片描述](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle.gif)  
-
+https://github.com/glomadrian/dashed-circular-progress    
+![这里写图片描述](https://github.com/glomadrian/dashed-circular-progress/raw/master/art/sample.gif)  
 
 
