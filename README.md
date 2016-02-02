@@ -13,5 +13,7 @@ https://github.com/jakob-grabner/Circle-Progress-View
 ![这里写图片描述](https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/big.png)  
 ![这里写图片描述](https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/ColorGradient.jpg)
 ![这里写图片描述](https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/demo.gif)  
+https://github.com/lingochamp/MagicProgressWidget    
+![这里写图片描述](https://github.com/lingochamp/MagicProgressWidget/raw/master/art/demo.gif)  
 
 
