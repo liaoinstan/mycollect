@@ -15,5 +15,7 @@ https://github.com/jakob-grabner/Circle-Progress-View
 ![这里写图片描述](https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/demo.gif)  
 https://github.com/lingochamp/MagicProgressWidget    
 ![这里写图片描述](https://github.com/lingochamp/MagicProgressWidget/raw/master/art/demo.gif)  
+https://github.com/Pedramrn/CircularProgressBar    
+![这里写图片描述](https://camo.githubusercontent.com/90da70c20dbebba461745cd77e017f3cab0a82b8/687474703a2f2f692e737461636b2e696d6775722e636f6d2f68475949702e676966)  
 
 
